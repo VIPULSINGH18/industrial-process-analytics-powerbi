@@ -1,6 +1,6 @@
 📊 Industrial Process Performance Analytics Dashboard:
 
-A Power BI–based industrial analytics project designed to monitor and analyze operational performance across key plant systems including P-Boiler quality monitoring, Ash Handling Plant efficiency, and Coal Feed energy performance.
+A Power BI–based industrial analytics project designed to monitor and analyze operational performance across JSW Steel plant systems including P-Boiler quality monitoring, Ash Handling Plant efficiency, and Coal Feed energy performance.
 
 The project focuses on data-driven operational insights, enabling engineers and plant operators to identify performance issues, optimize fuel quality, and improve process efficiency through interactive dashboards.
 
